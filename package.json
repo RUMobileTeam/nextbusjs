@@ -21,7 +21,7 @@
     "vows": "*"
   },
   "dependencies": {
-    "jsdom": "0.7.x",
+    "jsdom-no-contextify": "3.1.x",
     "request": "2.9.x"
   }
 }
